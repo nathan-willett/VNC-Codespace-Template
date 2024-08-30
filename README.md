@@ -1,5 +1,7 @@
 # Overview
-This repository serves as a template for setting up a Java development environment in GitHub Codespaces. It is designed to streamline the process of initializing a new Java project with a pre-configured development environment, utilizing Java 21.
+This repository serves as a template for setting up a comprehensive Java development environment in GitHub Codespaces, specifically tailored for projects that require a graphical user interface (GUI). Traditionally, running GUI applications within a GitHub Codespace poses significant challenges due to the limitations of headless environments. However, this template overcomes these limitations by integrating a NoVNC viewer, allowing developers to run and interact with GUI applications directly within their Codespace.
+
+By leveraging NoVNC, this template makes it possible to display the Java GUI in a separate browser tab, providing a seamless development experience as if you were working on a local machine. This is particularly useful for developers building desktop applications, educational tools, or any other Java-based project that requires a visual interface.
 
 # Key Features
 - **Java 21 Environment:** The template is configured to use Java 21, ensuring compatibility with the latest Java features and improvements.
