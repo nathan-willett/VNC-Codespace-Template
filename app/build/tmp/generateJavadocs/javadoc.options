@@ -1,0 +1,11 @@
+-d 'C:\\GitHub\\Group-Z\\app\\docs'
+-doctitle 'app API'
+-notimestamp 
+-quiet 
+-windowtitle 'app API'
+'C:\\GitHub\\Group-Z\\app\\src\\main\\java\\Catalog.java'
+'C:\\GitHub\\Group-Z\\app\\src\\main\\java\\Item.java'
+'C:\\GitHub\\Group-Z\\app\\src\\main\\java\\LineItem.java'
+'C:\\GitHub\\Group-Z\\app\\src\\main\\java\\ShoppingCart.java'
+'C:\\GitHub\\Group-Z\\app\\src\\main\\java\\ShoppingCartGUI.java'
+'C:\\GitHub\\Group-Z\\app\\src\\main\\java\\ShoppingCartMain.java'
